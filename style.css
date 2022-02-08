@@ -1,0 +1,29 @@
+main {
+    display: grid;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+main h2 {
+    justify-self: center;
+}
+
+main span {
+    padding: 2.5%;
+    border: 2px black solid;
+    border-radius: 1em;
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 2.5%;
+}
+
+main button {
+    padding: 2.5%;
+    border: 2px black solid;
+    border-radius: 1em;
+    width: max-content;
+    justify-self: center;
+    margin-top: 2.5%;
+}
